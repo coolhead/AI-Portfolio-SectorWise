@@ -13,13 +13,14 @@ Each project is designed to solve real-world problems using Machine Learning, De
 - **Models:** XGBoost, SARIMA, LSTM
 - **Outcome:** MAPE ~12%, sales trend insights
 - **Tools:** MLflow, Streamlit, GitHub Actions
-
+- [Retail – Sales Forecasting](./sections/sales_forecasting.md)
 ---
 
 ### 🚗 Automotive – [Car Damage Detection](https://github.com/coolhead/car-damage-mlops-pipeline)
 - **Models:** YOLOv8 (Object Detection)
 - **Outcome:** Real-time image classification for insurance automation
 - **Tools:** Roboflow, Ultralytics, AWS SageMaker
+- [Automotive – Car Damage Detection](./sections/car_damage_detection.md)
 
 ---
 
@@ -27,21 +28,21 @@ Each project is designed to solve real-world problems using Machine Learning, De
 - **Models:** Linear Regression with VIF, Feature Selection
 - **Outcome:** R² ~0.83, hourly demand forecasting
 - **Tools:** Statsmodels, Seaborn, Sklearn
-
+- [Transport – Bike Sharing Demand Prediction](./sections/bike_sharing.md)
 ---
 
 ### 🧬 Healthcare – [Melanoma Cancer Detection](https://github.com/coolhead/CNNAssignment)
 - **Models:** CNN (Binary Classification)
 - **Outcome:** Detects Melanoma from skin lesion images
 - **Tools:** Keras, TensorFlow, Image Augmentation
-
+- [Healthcare – Melanoma Detection](./sections/melanoma_detection.md)
 ---
 
 ### 🦜 Ecology – [Bird Species Classification](https://github.com/coolhead/bird-classification)
 - **Models:** Transfer Learning (ResNet-based CNN)
 - **Outcome:** Species-level identification (WIP)
 - **Tools:** SageMaker, PyTorch
-
+- [Ecology – Bird Species Classification](./sections/bird_classification.md)
 ---
 
 ### 💳 Finance – [Credit Card Fraud Detection](https://github.com/coolhead/credit-card-fraud-detection) *(WIP)*
