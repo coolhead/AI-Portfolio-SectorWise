@@ -52,6 +52,14 @@ Each project is designed to solve real-world problems using Machine Learning, De
 
 ---
 
+### 🖐️ Human-Computer Interaction – [Hand Gesture Recognition](https://github.com/coolhead/Python_Hand-Gesture-Recognition)
+- **Models:** CNN for image classification, OpenCV + Mediapipe for gesture tracking
+- **Outcome:** Real-time webcam-based gesture detection (e.g., thumbs up, peace)
+- **Tools:** OpenCV, Mediapipe, TensorFlow/Keras, Python  
+- [Hand Gesture Recognition – HCI](./sections/hand_gesture_recognition.md)
+
+---
+
 ## 📂 Other Notable Projects
 
 - [IRIS Classification + Streamlit + GitHub Actions](https://github.com/coolhead/IRIS_Classification_Streamlit_Pipeline_Project)
